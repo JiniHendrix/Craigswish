@@ -1,0 +1,30 @@
+{
+  "name": "solo-project",
+  "version": "1.0.0",
+  "description": "craigswishlist",
+  "main": "index.js",
+  "scripts": {
+    "s": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "body-parser": "^1.16.0",
+    "cheerio": "^0.22.0",
+    "es6-promise": "^4.0.5",
+    "express": "^4.14.1",
+    "isomorphic-fetch": "^2.2.1",
+    "jquery": "^3.1.1",
+    "mongodb": "^2.2.22",
+    "mongoose": "^4.8.1",
+    "path": "^0.12.7",
+    "request": "^2.79.0",
+    "twilio": "^2.11.1",
+    "webpack": "^2.2.1"
+  }
+}

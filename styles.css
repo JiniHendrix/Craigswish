@@ -1,0 +1,41 @@
+body {
+    /*background-color: dodgerblue;*/
+    font-family: 'Architects Daughter', cursive;
+}
+.title {
+    text-align: center;
+    font-size: 31px;
+}
+form {
+    text-align: center;
+}
+.forms {
+    height: 160px;
+    width: 600px;
+    /*background-color: #FFA500;*/
+    line-height:160px;
+    margin:auto;
+}
+div.buttons {
+    width:200px;
+    margin: auto;
+}
+.listing {
+    height:450px;
+    width:300px;
+    float:left;
+    margin:10px;
+    word-wrap:break-word;
+}
+.results {
+    margin-left:40px;
+}
+img {
+    height:300px;
+    width:300px;
+    display:block;
+}
+
+h1 {
+    font-size:20px;
+}
